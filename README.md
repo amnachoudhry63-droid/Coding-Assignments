@@ -14,5 +14,7 @@ Create a system to determine university admission eligibility based on multiple 
 
 ## Description:
 This project is a simple system that calculates a student's eligibility for university admission. It takes multiple exam scores as input and applies a merit formula to determine if the student qualifies.
+## You tube Video Link :
+https://youtu.be/2ylfjvXPq8Q
 
 
